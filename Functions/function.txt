@@ -1,0 +1,18 @@
+NOTE --memahami function JS bersama WPU--
+ARROW function menurut MDN Mozilla adalah bentuk lain yang lebih ringkas dari 
+function expresion
+
+Video 7.0 FUNCTION pada JS
+function merupakan kunci utama JS semua hal seperti method,class,constructor dan
+module dapat digunakan dan dibuat hanya dengan module
+
+      DEFINISI FUNCTION adalah:
+
+Sebuah sub-program/subroutine yang dapat dipanggil di bagian lain pada PROGRAM      
+2 kategori function di bahasa pemrograman yaitu built-in function yang telah di-
+sediakan oleh ekosistem tersebut.
+Sedanngkan user define function adalah funsi yang dibuat sendiri oleh programer 
+yang disesuaikan dengan kebutuhannya.
+
+Tugas kita adalah mencari tau apa saja built-in function yang ada di JS
+alhamdulillah
