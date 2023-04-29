@@ -2,8 +2,6 @@
  --Parameter adalah variable yang ditulis di dalam kurung pada saat function dibuat
  digunakan untuk menampung nilai yang dikirimkan saat function dipanggil.
 */
-
-// TOD contoh dalam bentuk function
 function tambah(a, b) {
   return a + b;
 }
